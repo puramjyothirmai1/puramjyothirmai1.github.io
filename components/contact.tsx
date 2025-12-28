@@ -47,12 +47,12 @@ export function Contact() {
                   LinkedIn
                 </h3>
                 <a
-                  href="https://www.linkedin.com/in/puram-jyothirmai"
+                  href="https://www.linkedin.com/in/jyothirmai-puram-b75b71201/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  linkedin.com/in/puram-jyothirmai
+                  linkedin.com/in/jyothirmai-puram-b75b71201
                 </a>
               </div>
 
@@ -62,12 +62,12 @@ export function Contact() {
                   GitHub
                 </h3>
                 <a
-                  href="https://github.com/puram-jyothirmai"
+                  href="https://github.com/puramjyothirmai1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  github.com/puram-jyothirmai
+                  github.com/puramjyothirmai1
                 </a>
               </div>
             </div>

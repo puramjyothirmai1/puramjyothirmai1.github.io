@@ -55,13 +55,13 @@ export function Navigation() {
 
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="icon" asChild>
-              <a href="https://github.com/puram-jyothirmai" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/puramjyothirmai1" target="_blank" rel="noopener noreferrer">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </a>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <a href="https://www.linkedin.com/in/puram-jyothirmai" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/jyothirmai-puram-b75b71201/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </a>

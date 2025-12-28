@@ -9,42 +9,42 @@ const projects = [
     description:
       "Implemented TD-Learning, SARSA, Q-Learning, and Actor-Critic algorithms for episodic tasks across benchmark environments like Inverted Pendulum, Cartpole, and GridWorld.",
     technologies: ["Python", "NumPy", "Pandas", "PyTorch", "Matplotlib"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
   {
     title: "Visual Grounding in Unseen Domain",
     description:
       "Fine-tuned pre-trained visual grounding models using LoRA in cluttered retail scenes. Reduced computational overhead by 15% and achieved up to 30% accuracy on unseen domains.",
     technologies: ["Python", "PyTorch", "LoRA", "TransVG", "Hugging Face"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
   {
     title: "Automation of Optimized Aggregation Queries using SeeDB",
     description:
       "Scripted a Python utility to implement the SeeDB algorithm for automated pruning-based optimization of aggregation queries in PostgreSQL. Visualized the top 5 aggregate views ranked by K-L divergence.",
     technologies: ["PostgreSQL", "Python", "pandas", "matplotlib"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
   {
     title: "Healthcare Management System",
     description:
       "Implemented a full-stack healthcare platform with secure EHR management, AI-driven recommendations, and HIPAA-compliant doctor-patient communication, including real-time reminders and role-based access.",
     technologies: ["React.js", "Next.js", "Spring Boot", "PostgreSQL", "Spring Security"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
   {
     title: "Biomart",
     description:
       "Built an end-to-end E-commerce web platform to connect farmers with suppliers, transporters, and buyers. Reduced middlemen by 40%, increased farmer profit margins by 25%, and supported 500+ product listings.",
     technologies: ["PHP", "JavaScript", "HTML", "CSS", "Node.js", "MySQL"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
   {
     title: "XSS Detection & Prevention System",
     description:
       "Built a system to simulate and detect Cross-Site Scripting (XSS) attacks in web apps, targeting JavaScript vulnerabilities. Implemented prevention mechanisms and security protocols to protect user data.",
     technologies: ["JavaScript", "HTML", "Web Security", "OWASP"],
-    link: "https://github.com/puram-jyothirmai",
+    link: "https://github.com/puramjyothirmai1",
   },
 ]
 
