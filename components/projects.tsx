@@ -9,7 +9,7 @@ const projects = [
     description:
       "Implemented TD-Learning, SARSA, Q-Learning, and Actor-Critic algorithms for episodic tasks across benchmark environments like Inverted Pendulum, Cartpole, and GridWorld.",
     technologies: ["Python", "NumPy", "Pandas", "PyTorch", "Matplotlib"],
-    link: "https://github.com/puramjyothirmai1",
+    link: "https://github.com/puramjyothirmai1/GraphiteLFIA",
   },
   {
     title: "Visual Grounding in Unseen Domain",
@@ -23,14 +23,14 @@ const projects = [
     description:
       "Scripted a Python utility to implement the SeeDB algorithm for automated pruning-based optimization of aggregation queries in PostgreSQL. Visualized the top 5 aggregate views ranked by K-L divergence.",
     technologies: ["PostgreSQL", "Python", "pandas", "matplotlib"],
-    link: "https://github.com/puramjyothirmai1",
+    link: "https://github.com/puramjyothirmai1/SeeDB",
   },
   {
     title: "Healthcare Management System",
     description:
       "Implemented a full-stack healthcare platform with secure EHR management, AI-driven recommendations, and HIPAA-compliant doctor-patient communication, including real-time reminders and role-based access.",
     technologies: ["React.js", "Next.js", "Spring Boot", "PostgreSQL", "Spring Security"],
-    link: "https://github.com/puramjyothirmai1",
+    link: "https://github.com/puramjyothirmai1/HealthcareManagementSystem",
   },
   {
     title: "Biomart",
@@ -44,7 +44,7 @@ const projects = [
     description:
       "Built a system to simulate and detect Cross-Site Scripting (XSS) attacks in web apps, targeting JavaScript vulnerabilities. Implemented prevention mechanisms and security protocols to protect user data.",
     technologies: ["JavaScript", "HTML", "Web Security", "OWASP"],
-    link: "https://github.com/puramjyothirmai1",
+    link: "https://github.com/puramjyothirmai1/Vulnerability-Testing-solution-XSS-Attack",
   },
 ]
 

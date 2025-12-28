@@ -11,7 +11,7 @@ const experiences = [
       "Developed end-to-end machine learning pipelines for ARR forecasting using TFT, Facebook Prophet, N-Beats, ARIMA, SSA, and deployed solutions on Google Cloud Platform and Qlik.",
     achievements: [
       "Achieved 80%+ prediction accuracy with automated feature engineering",
-      "Integrated interactive dashboards and scalable analytics for business stakeholders",
+      "Integrated interactive dashboards and scalable analytics for business stakeholders"
     ],
     technologies: ["Python", "scikit-learn", "Prophet", "TensorFlow", "GCP", "Qlik", "Plotly"],
   },
@@ -22,7 +22,7 @@ const experiences = [
     description: "Implemented Multi-orchestrator outline generating model for long-form articles generation.",
     achievements: [
       "Conducted Zero-shot, Storm and Check-Eval based testing",
-      "Enhanced quality of generated articles using advanced LLM techniques",
+      "Enhanced quality of generated articles using advanced LLM techniques"
     ],
     technologies: ["Python", "PyTorch", "Transformers", "RAG", "LLM", "GPT"],
   },
@@ -34,8 +34,7 @@ const experiences = [
     description: "Enhanced the Demand AI forecasting pipeline to efficiently process 6B+ global retail sales records.",
     achievements: [
       "30% reduction in processing time with advanced C++ algorithms",
-      "15% increase in forecast accuracy across three new regions",
-      "99.5% regression pass rate with 40% fewer production defects",
+      "15% increase in forecast accuracy across three new regions"
     ],
     technologies: ["C++", "RESTful API", "G-test", "Supply Chain Algorithms", "Multithreading"],
   },
@@ -46,8 +45,8 @@ const experiences = [
     location: "Bengaluru, India",
     description: "Integrated ARIMA-based forecasting modules and supply chain heuristics into existing pipeline.",
     achievements: [
-      "Reduced forecast errors by 20%, saving approx $1M annually",
-      "Accelerated strategic planning by 40% through comprehensive testing",
+      "Reduced forecast errors by 20%",
+      "Accelerated strategic planning by 40% through comprehensive testing"
     ],
     technologies: ["C++", "Python", "ARIMA", "G-tests", "Tableau"],
   },
@@ -58,9 +57,9 @@ const experiences = [
     location: "Chennai, India",
     description: "Improved code quality and deployment stability across 10+ microservices.",
     achievements: [
-      "Boosted validation accuracy from 70% to 99.9%",
+      "Boosted validation accuracy to 80%",
       "Reduced critical code smells by 60%",
-      "Halved bug resolution time",
+      "Halved bug resolution time"
     ],
     technologies: ["Java", "SonarQube", "Jenkins", "GitLab CI"],
   },
